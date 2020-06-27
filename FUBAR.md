@@ -1,0 +1,1 @@
+# New Fubar file to check conflicts
